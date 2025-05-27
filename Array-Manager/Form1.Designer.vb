@@ -267,10 +267,10 @@ Partial Class Form1
         ' 
         Label7.AutoSize = True
         Label7.BackColor = Color.Transparent
-        Label7.Font = New Font("Segoe UI Semibold", 10.8F, FontStyle.Bold)
+        Label7.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold)
         Label7.Location = New Point(6, 10)
         Label7.Name = "Label7"
-        Label7.Size = New Size(156, 25)
+        Label7.Size = New Size(169, 28)
         Label7.TabIndex = 1
         Label7.Text = "Delete Number/s"
         ' 
@@ -360,10 +360,10 @@ Partial Class Form1
         ' 
         Label4.AutoSize = True
         Label4.BackColor = Color.Transparent
-        Label4.Font = New Font("Segoe UI Semibold", 10.8F, FontStyle.Bold)
+        Label4.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold)
         Label4.Location = New Point(6, 10)
         Label4.Name = "Label4"
-        Label4.Size = New Size(122, 25)
+        Label4.Size = New Size(132, 28)
         Label4.TabIndex = 1
         Label4.Text = "Find Number"
         ' 
@@ -455,10 +455,10 @@ Partial Class Form1
         ' 
         Label2.AutoSize = True
         Label2.BackColor = Color.Transparent
-        Label2.Font = New Font("Segoe UI Semibold", 10.8F, FontStyle.Bold)
+        Label2.Font = New Font("Segoe UI Semibold", 12F, FontStyle.Bold)
         Label2.Location = New Point(6, 10)
         Label2.Name = "Label2"
-        Label2.Size = New Size(135, 25)
+        Label2.Size = New Size(147, 28)
         Label2.TabIndex = 0
         Label2.Text = "Add Number/s"
         ' 
